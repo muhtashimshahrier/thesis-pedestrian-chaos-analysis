@@ -1,0 +1,27 @@
+# YOLOv8 Dataset Configuration File
+# Defines dataset structure and class labels
+
+path: ../dataset  # Root directory of the dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 16  # Number of classes
+
+names:
+  0: Ambulance
+  1: Auto-Rickshaw
+  2: Bicycle
+  3: Bus
+  4: C.N.G
+  5: Covered-Van
+  6: Cycle-Rickshaw
+  7: Human-Hauler
+  8: Mini-Hauler
+  9: MotorCycle
+  10: Pedestrian
+  11: Pick-Up
+  12: Private-Passenger-Car
+  13: Non-Motorized-Van
+  14: Special-Purpose-Vehicle
+  15: Truck
