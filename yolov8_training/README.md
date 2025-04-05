@@ -4,7 +4,7 @@ This folder contains the code and related files used to train a custom YOLOv8 ob
 
 ---
 
-## 🧠 Overview
+## Overview
 
 - **Base model:** YOLOv8l (`yolov8l.pt`)
 - **Classes:** 16 total (e.g., Pedestrian, Rickshaw, Truck, etc.)
@@ -15,7 +15,7 @@ This folder contains the code and related files used to train a custom YOLOv8 ob
 
 ---
 
-## 📁 Files
+## Files
 
 | File                        | Description                                  |
 |----------------------------|----------------------------------------------|
@@ -26,7 +26,7 @@ This folder contains the code and related files used to train a custom YOLOv8 ob
 
 ---
 
-## 🧾 Dataset Structure (referenced in `okiish.yaml`)
+## Dataset Structure (referenced in `okiish.yaml`)
 
 dataset/
 ├── images/
@@ -43,7 +43,7 @@ Each image has a corresponding YOLO-format label file in the `labels/` directory
 
 ---
 
-## 🛠️ Command Summary
+## Command Summary
 
 ```bash
 # Train the model (runs from train.py)
