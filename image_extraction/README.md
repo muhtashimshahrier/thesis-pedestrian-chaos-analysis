@@ -12,6 +12,9 @@ This script extracts frames from a video at fixed time intervals using OpenCV. I
 - Uses relative paths for easy GitHub integration
 
 ---
+## Dependencies
+Python 3.x
+OpenCV → pip install opencv-python
 
 ### Command-Line Example
 
