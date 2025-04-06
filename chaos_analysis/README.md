@@ -14,7 +14,7 @@ This folder contains scripts and result plots used to analyze the **chaotic natu
 | `lyapunov_analysis.py` | Python implementation of Rosenstein’s method to compute Lyapunov Exponents |
 | `apen_analysis.py` | Python script for computing Approximate Entropy of velocity and direction change |
 | `lyapunov_result_day.png`, `lyapunov_result_night.png` | Histogram plots of Lyapunov Exponents |
-| `apen_result_day.png`, `apen_result_night.png` | Histogram plots of Approximate Entropy |
+| `approximate_entropy_result_day.png`, `approximate_entropy_result_night.png` | Histogram plots of Approximate Entropy |
 | `README.md` | This file |
 
 ---
