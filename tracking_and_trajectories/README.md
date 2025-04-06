@@ -26,6 +26,7 @@ This folder contains scripts to perform object tracking using **YOLOv8 + DeepSOR
 
 ```bash
 pip install ultralytics opencv-python pandas torch
+```markdown
 
 ## Script: `track_and_save_video.py`
 
