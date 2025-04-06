@@ -21,12 +21,10 @@ This folder contains scripts to perform object tracking using **YOLOv8 + DeepSOR
 - `pandas`
 - `torch`
 
-```markdown
-### Install dependencies
 
-```bash
+Install dependencies
+``bash
 pip install ultralytics opencv-python pandas torch
-```markdown
 
 ## Script: `track_and_save_video.py`
 
@@ -34,7 +32,7 @@ Tracks all detected objects and saves the output video with bounding boxes and I
 
 ### Usage
 
-```bash
+``bash
 python track_and_save_video.py \
   --video path/to/input_video.mp4 \
   --model path/to/best.pt \
@@ -46,7 +44,7 @@ Tracks only objects of a specific class (e.g., pedestrians) and logs their posit
 
 ### Usage
 
-```bash
+``bash
 python track_and_extract_csv.py \
   --video path/to/input_video.mp4 \
   --model path/to/best.pt \
