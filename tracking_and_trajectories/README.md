@@ -21,7 +21,8 @@ This folder contains scripts to perform object tracking using **YOLOv8 + DeepSOR
 - `pandas`
 - `torch`
 
-Install dependencies:
+```markdown
+### Install dependencies
 
 ```bash
 pip install ultralytics opencv-python pandas torch
