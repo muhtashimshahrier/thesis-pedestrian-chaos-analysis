@@ -16,7 +16,7 @@ This folder contains scripts to perform object tracking using **YOLOv8 + DeepSOR
 ## Requirements
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
-- DeepSORT implementation (e.g., from [`mikel-brostrom/Yolov5_DeepSort_Pytorch`](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch))
+- DeepSORT implementation 
 - `opencv-python`
 - `pandas`
 - `torch`
