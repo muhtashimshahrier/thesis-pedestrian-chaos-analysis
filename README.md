@@ -97,4 +97,4 @@ If you find this work helpful in your own research or study, please cite it usin
 
 **Md. Muhtashim Shahrier**  
 BUET Civil Engineering '25  
-[Website](https://muhtashimshahrier.github.io) · [GitHub](https://github.com/muhtashimshahrier)
+[GitHub](https://github.com/muhtashimshahrier)
